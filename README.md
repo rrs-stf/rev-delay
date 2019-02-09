@@ -1,3 +1,4 @@
 # Stereo Reverse Delay
 
-TODO add details
+Inspired from https://ccrma.stanford.edu/~hskim08/sttr/
+
