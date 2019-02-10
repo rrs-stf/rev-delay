@@ -11,9 +11,9 @@ Each audio channel is modified using the following parameters: Level, Grain Size
 
 Based of the value of the Delay parameter and due to the unique spectral effects generated from the 50% OLA, the plugin has three modes of operation:
 
-    + Harmonizer: generates additional overtones to the sound (Delay between 1ms and 33ms)
-    + Reverb: the plugin creates a reverb-like effect to the audio input (Delay between 33ms and 100ms)
-    + Reverse Delay: the normal mode of operation, when the reverse sections are audible (Delay larger than 100ms)
+    + Harmonizer: generates additional overtones to the sound (Grain between 1ms and 33ms)
+    + Reverb: the plugin creates a reverb-like effect to the audio input (Grain between 33ms and 100ms)
+    + Reverse Delay: the normal mode of operation, when the reverse sections are audible (Grain larger than 100ms)
     
 It is worth noting that the "Harmonizer" aspect of the plugin is very hard to control, if the aim is to create a certain spectral shape.
 
