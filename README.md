@@ -2,7 +2,7 @@
 
 Inspired from https://ccrma.stanford.edu/~hskim08/sttr/. Check it out for more details regarding the theoretical aspect of the project.
 
-This is an implementation of a Reverse Delay/Echo plugin, using Short-Time Time Reversal (STTR) with a constant 50% overlap-add method (OLA), for a stereo input. 
+This is an implementation of a Reverse Delay/Echo plugin, using Short-Time Time Reversal (STTR) with a constant 50% overlap-add method (OLA), for a stereo input. This is a mini-project developed during the fall semester of 2018 at SMC, for the Sound Processing Course. 
 
 ## Parameters
 Each audio channel is modified using the following parameters: Level, Grain Size, Overtone, Mix and Feedback
